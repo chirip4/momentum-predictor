@@ -1,0 +1,7 @@
+pandas
+numpy
+scikit-learn
+ccxt
+joblib
+tqdm
+matplotlib
