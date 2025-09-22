@@ -1,4 +1,4 @@
-# Momentum Ppredictor: Balanced Ensemble Model for Bybit Futures
+# Momentum Predictor: Balanced Ensemble Model for Bybit Futures
 
 This project implements a **momentum trading predictor** for Bybit Futures, focused on the **1h timeframe** (adaptable).  
 It includes automated OHLCV data fetching, feature engineering, and an ensemble of ML models optimized for class balance.
